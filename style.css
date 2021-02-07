@@ -387,19 +387,19 @@ section {
 }
 
 .hobby .item:nth-of-type(1) {
-    background-image: url(../1StronaWizytowka/images/tech.jpg);
+    background-image: url(./images/tech.jpg);
 }
 
 .hobby .item:nth-of-type(2) {
-    background-image: url(../1StronaWizytowka/images/basketball.jpg);
+    background-image: url(./images/basketball.jpg);
 }
 
 .hobby .item:nth-of-type(3) {
-    background-image: url(../1StronaWizytowka/images/e-sport.jpg);
+    background-image: url(./images/e-sport.jpg);
 }
 
 .hobby .item:nth-of-type(4) {
-    background-image: url(../1StronaWizytowka/images/skimboard.jpg);
+    background-image: url(./images/skimboard.jpg);
 }
 
 .hobby .item p {
